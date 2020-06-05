@@ -1,0 +1,19 @@
+keygen fm|http://95.143.216.164:8082/
+Виктор Цой|https://stream.pcradio.ru/gr_Kino-med
+авторадио|http://81.89.113.62:8181/autoradio
+лучшие хиты|http://europaplus.hostingradio.ru:8014/ep-top256.mp3
+музыка восьмидесятых|http://europaplus.hostingradio.ru:8014/retro80-128.mp3
+европа плюс|http://europaplus.hostingradio.ru:8014/ep-light128.mp3
+музыка девяностых|http://europaplus.hostingradio.ru:8014/retro90-128.mp3
+джаз|http://jfm1.hostingradio.ru:14536/jlstream.mp3
+рок|http://jfm1.hostingradio.ru:14536/rock00.mp3
+родных дорог|http://stream1.radiord.ru:8000/live96.mp3
+ретро|http://europaplus.hostingradio.ru:8014/retro320.mp3
+пикник|https://stream.pcradio.ru/piknik-med
+скутер|https://stream.pcradio.ru/Scooter-med
+HI-FI|https://stream.pcradio.ru/Hi_fi-med
+Sandra|https://stream.pcradio.ru/Sandra-med
+Тарья|https://stream.pcradio.ru/Tarja_turunen-med
+Pain|https://stream.pcradio.ru/Pain-med
+Nickelback|https://stream.pcradio.ru/nickelback-med
+Дискотека Авария|https://stream.pcradio.ru/Diskoteka_Avaria-med
